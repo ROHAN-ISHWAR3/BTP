@@ -1,0 +1,5 @@
+◦ Utilized spatio-temporal precipitation and temperature data from Northeast India to generate actionable climate
+insights, which could aid in the formulation of evidence-based environmental strategies and policies.
+◦ Applied clustering algorithms, including K-Means and DBSCAN, to climate data for comprehensive analysis.
+◦ Ongoing development of Geographic information system visualizations, including cluster maps, heatmaps, and
+time-series plots, using Python libraries and QGIS to illustrate spatio-temporal climate patterns..
